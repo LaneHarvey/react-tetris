@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { STAGE_WIDTH } from '../gameHelpers';
 
 import { randomTetromino } from '../tetrominos';
 
